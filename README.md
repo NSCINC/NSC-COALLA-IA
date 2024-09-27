@@ -1,97 +1,96 @@
-Aqui está a versão atualizada do README para o projeto **NSC IA X HoloFi DApp**. Fiz algumas melhorias e adicionei detalhes relevantes:
+Sure! Here’s the updated README for **NSC Coalla AI**, translated into English, with updated topics and environmental emojis:
 
 ---
-## 🌎 NSC IA HoloFi SEA 🌎
+
+## 🌍 NSC Coalla AI 🌍
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234F5B93.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### Tecnologias Utilizadas
+### 🌱 Technologies Used
 
-- **C**: Para implementar funcionalidades críticas e componentes de alto desempenho.
-- **React.js**: Para construir uma interface de usuário dinâmica e responsiva.
-- **Node.js**: Para gerenciamento de operações de backend.
-- **HTML5**: Para estruturar o conteúdo da web.
-- **CSS3**: Para estilizar e projetar as páginas da web.
-- **JavaScript**: Para script e manipulação de interações entre o frontend e o backend.
-- **SQL**: Para gerenciamento de banco de dados e consulta de dados de ativos digitais.
-- **Shell Script**: Para automação de sistemas e tarefas de integração.
+- **C**: Implementing critical functionalities and high-performance components.
+- **Java**: Developing robust applications and managing business logic.
+- **Node.js**: Managing backend operations and communication with the frontend.
+- **Shell Script**: Automating tasks and integrating systems.
+- **Rubyx**: Scripting and developing supporting tools.
+- **Lua**: Lightweight scripting and extensibility.
+- **Go**: Developing efficient and scalable services.
 
-### Descrição
+### 🌟 Description
 
-**NSC IA X** é uma plataforma avançada da HoloFi projetada para facilitar aplicativos descentralizados (DApps) e gerenciamento de ativos digitais. Ela integra uma gama de tecnologias de ponta para garantir tokenização, transações e operações de contratos inteligentes de forma segura e eficiente.
+**NSC Coalla AI** is an innovative platform by HoloFi designed for the development of decentralized applications (DApps) and digital asset management. By integrating advanced technologies, Coalla AI provides secure and efficient solutions for tokenization, transactions, and smart contract operations.
 
-### Pré-requisitos
+### 🛠️ Prerequisites
 
-- Compilador **C** (ex.: GCC) instalado em sua máquina.
-- **Node.js** e **npm** instalados para gerenciar dependências JavaScript e executar o backend.
-- **React.js** instalado e configurado para construir a interface de usuário.
-- Configuração do banco de dados **SQL** para gerenciar e consultar dados de ativos digitais.
-- Ambiente **Shell** para executar scripts e tarefas de automação.
-- Conhecimento básico de C, JavaScript, React.js, Node.js, HTML5, CSS3, SQL e script Shell.
+- Compilers for **C** and **Java** installed on your machine.
+- **Node.js** and **npm** installed for managing JavaScript dependencies and running the backend.
+- **Rubyx** and **Lua** installed for scripting and automation.
+- **Shell** environment set up for running scripts and automated tasks.
+- **Go** configured for service development.
+- Basic knowledge of C, Java, Node.js, Shell, Rubyx, Lua, and Go.
 
-### Instruções de Uso
+### 🚀 Instructions for Use
 
-1. **Clonando o Repositório:**
+1. **Cloning the Repository:**
    ```sh
-   git clone https://github.com/seu-usuario/nsc-ia-x-dapp.git
+   git clone https://github.com/your-username/nsc-coalla-ai.git
    ```
 
-2. **Instalando Dependências:**
+2. **Installing Dependencies:**
    ```sh
-   cd nsc-ia-x-dapp
+   cd nsc-coalla-ai
    npm install
    ```
 
-3. **Configurando a Rede NSC IA X HoloFi:**
-   - Certifique-se de que seu cliente NSC IA X esteja operacional e sincronizado.
-   - Configure as variáveis de ambiente no arquivo `.env` com os detalhes da sua rede HoloFi.
+3. **Configuring the NSC Coalla AI Network:**
+   - Ensure your NSC Coalla AI client is operational and synced.
+   - Set up environment variables in the `.env` file with the details of your HoloFi network.
 
-4. **Implantando Contratos Inteligentes:**
-   - Compile e implemente contratos inteligentes na rede HoloFi conforme necessário.
-   - Atualize os endereços dos contratos nos arquivos de configuração (`config.js`, etc.) após a implantação.
+4. **Deploying Smart Contracts:**
+   - Compile and deploy smart contracts on the HoloFi network as needed.
+   - Update contract addresses in configuration files (`config.js`, etc.) after deployment.
 
-5. **Construindo o Frontend em React:**
+5. **Building the Node.js Frontend:**
    ```sh
    npm run build
    ```
 
-6. **Executando o DApp:**
+6. **Running the DApp:**
    ```sh
    npm start
    ```
 
-7. **Interagindo com o DApp NSC IA X:**
-   - Utilize os endpoints da API REST fornecidos para gerenciar ativos digitais e executar transações.
-   - Os ativos digitais são representados como tokens personalizáveis na rede HoloFi.
+7. **Interacting with the NSC Coalla AI DApp:**
+   - Use the provided REST API endpoints to manage digital assets and execute transactions.
+   - Digital assets are represented as customizable tokens on the HoloFi network.
 
-### Integração Planetária
+### 🌌 Planetary Integration
 
-NSC IA X integra funcionalidades avançadas com foco na segurança, transparência e eficiência computacional para DApps, abrangendo tanto a Terra quanto o Espaço.
+NSC Coalla AI is designed to provide advanced functionalities focusing on security, transparency, and computational efficiency for DApps, encompassing both Earth and Space.
 
-### Computação Quântica e Criação de Ativos Híbridos
+### ⚛️ Quantum Computing and Hybrid Asset Creation
 
-NSC IA X integra soluções inovadoras para a criação de ativos digitais híbridos e computação quântica, expandindo as fronteiras de aplicativos descentralizados e gerenciamento de ativos digitais.
+The platform integrates innovative solutions for creating hybrid digital assets and quantum computing, expanding the possibilities for decentralized applications and digital asset management.
 
-### Novas Configurações
+### 🔧 New Configurations
 
-- **Atualização da Configuração do Ambiente**: Inclua as variáveis de ambiente mais recentes relacionadas às capacidades de HORIZON FX e integração quântica em seu arquivo `.env`.
-- **Novas Dependências**: Adicionado suporte para bibliotecas de integração quântica e atualizações de Horigami FX.
+- **Environment Configuration Update**: Include the latest environment variables related to HORIZON FX capabilities and quantum integration in your `.env` file.
+- **New Dependencies**: Added support for quantum integration libraries and updates to Horigami FX.
 
-NSC IA X está na vanguarda da tecnologia HoloFi, fornecendo uma plataforma robusta para aplicativos descentralizados e gerenciamento de ativos digitais. Com integrações avançadas como funcionalidades planetárias e capacidades de computação quântica, NSC IA X está preparado para redefinir o cenário HoloFi.
+**NSC Coalla AI** is at the forefront of HoloFi technology, providing a robust platform for decentralized applications and digital asset management. With advanced integrations such as planetary functionalities and quantum computing capabilities, Coalla AI is ready to redefine the HoloFi landscape.
 
 <p>FOUNDER: LUCAS JANAURIO DO NASCIMENTO</p>
 
-<img src="C.PNG" alt="Hollow Ether Logo">
+<img src="D.PNG" alt="Hollow Ether Logo">
 
 ---
 
-Obrigado pela sua atenção!
+Thank you for your attention!
 
-by NSC
+
