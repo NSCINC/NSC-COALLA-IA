@@ -1,4 +1,4 @@
-Sure! Here’s the updated README for **NSC Coalla AI**, translated into English, with updated topics and environmental emojis:
+
 
 ---
 
